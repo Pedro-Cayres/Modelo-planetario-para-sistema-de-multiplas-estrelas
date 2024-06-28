@@ -1,11 +1,9 @@
-# solarsystem.py
-
 import itertools
 import math
 import turtle
 from time import sleep
 
-# Solar System Bodies
+#Corpos Celestes
 class SolarSystemBody(turtle.Turtle):
     min_display_size = 20
     display_log_base = 1.1
@@ -81,7 +79,7 @@ class Planet(SolarSystemBody):
         super().__init__(solar_system, mass, position, velocity)
         self.color(next(Planet.colours))
 
-# Solar System
+#Sistema Solar
 class SolarSystem:
     def __init__(self, width, height):
         self.solar_system = turtle.Screen()
