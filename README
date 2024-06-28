@@ -1,3 +1,4 @@
 Este código foi desenvolvido durante a disciplina de Física Computacional referente ao curso de graduação em Física Médica pela Universidade de São Paulo - RP no ano de 2024.
-O código encontra-se disponível para download em formato .py acessando o arquivo modelo_planetario.py. Para executá-lo, instalar a biblioteca tkinter responsável por fornecer suporte ao módulo turtle, executando o código em algum software adequado (Jupyter Notebook, JupyterLab, VSCode...) já instalado no computador. 
+O código encontra-se disponível para download em formato .py acessando o arquivo modelo_planetario.py; o arquivo modelo_planetario_edo.py refere-se ao modelo "problemático" comentado na apresentação do trabalho.
+Para executá-los, instalar a biblioteca tkinter responsável por fornecer suporte ao módulo turtle, executando o código em algum software adequado (Jupyter Notebook, JupyterLab, VSCode...) já instalado no computador. 
 Os parâmetros usados nas simulações do modelo planetário poderão ser modificados para se analisar o comportamento do sistema.
